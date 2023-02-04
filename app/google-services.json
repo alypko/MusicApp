@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382262723316",
+    "project_id": "musicapp-bebff",
+    "storage_bucket": "musicapp-bebff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382262723316:android:da5985acb4317bcc9d94a1",
+        "android_client_info": {
+          "package_name": "com.example.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382262723316-nm6b6l59ent48082om7850l297q2ecc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS3HBQj8Pm2fXwYu2LkTzKoMpXPjw1DGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382262723316-nm6b6l59ent48082om7850l297q2ecc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
